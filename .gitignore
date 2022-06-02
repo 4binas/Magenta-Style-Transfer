@@ -1,0 +1,4 @@
+/playground/venv/**
+/fastapi/venv/**
+/fastapi/.idea
+/playground/.idea
